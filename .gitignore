@@ -1,29 +1,2 @@
-# Excel临时文件
-~$*.xlsx
-*.tmp
-
-# JSON输出文件
-Output/*.json
-
-# Go编译文件
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
-
-# Go测试文件
-*_test.go
-
-# IDE文件
 .idea/
-.vscode/
-*.swp
-*.swo
-
-# 系统文件
-Thumbs.db
-Desktop.ini
-.DS_Store
-
 .qoder/settings.local.json
